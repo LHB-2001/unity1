@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class NewBehaviourScript : MonoBehaviour
 {
-    public int a = 10;
+    public int a = 101;
     public int b = 20;
     public int c = a + b;
     
